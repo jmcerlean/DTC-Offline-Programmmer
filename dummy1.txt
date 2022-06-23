@@ -2,7 +2,5 @@ hello world
 <<<<<<< HEAD
 ghghff
 =======
-
 >>>>>>> ac5f487cbdc0347594ad64b743e21a48c0d3d0d1
-
 ghghff
